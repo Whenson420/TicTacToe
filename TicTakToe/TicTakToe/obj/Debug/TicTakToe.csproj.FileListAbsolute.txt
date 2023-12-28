@@ -1,0 +1,10 @@
+E:\ProjektekPort\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe.config
+E:\ProjektekPort\TicTakToe\TicTakToe\bin\Debug\TicTakToe.exe
+E:\ProjektekPort\TicTakToe\TicTakToe\bin\Debug\TicTakToe.pdb
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.AssemblyReference.cache
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.TicTacToe.resources
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.Properties.Resources.resources
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.GenerateResource.cache
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.csproj.CoreCompileInputs.cache
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.exe
+E:\ProjektekPort\TicTakToe\TicTakToe\obj\Debug\TicTakToe.pdb
